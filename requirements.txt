@@ -1,0 +1,15 @@
+certifi
+charset-normalizer
+defusedxml
+idna
+joblib
+matplotlib
+numpy
+optuna
+pandas
+psutil
+requests
+scikit-learn
+seaborn
+tqdm
+urllib3
