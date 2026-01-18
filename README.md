@@ -59,7 +59,7 @@ Dự án này giải quyết bài toán **Citation Matching** - một dạng c�
 
 ## Thông tin sinh viên
 
-| Thông tin | Giá trị |
+| Thông tin |  |
 |-----------|---------|
 | **MSSV** | 23120334 |
 | **Họ và tên** | Huỳnh Tấn Phước |
@@ -179,7 +179,7 @@ pip install -r src/requirements.txt
 
 #### Google Colab (Khuyến nghị)
 
-**📁 Dữ liệu dự án**: [Google Drive](https://drive.google.com/drive/folders/1RJC81xq4osFdIOGtwy_pKQoxlwGW3FZC?usp=sharing)
+**Dữ liệu dự án**: [Google Drive](https://drive.google.com/drive/folders/1RJC81xq4osFdIOGtwy_pKQoxlwGW3FZC?usp=sharing)
 
 **Cấu trúc thư mục trong Drive**:
 ```
@@ -219,7 +219,7 @@ drive.mount('/content/drive')
 
 ## Hướng dẫn sử dụng
 
-> **⚠️ Lưu ý**: Dự án được thiết kế để chạy trên **Google Colab**. Vui lòng tải dữ liệu từ [Google Drive](https://drive.google.com/drive/folders/1RJC81xq4osFdIOGtwy_pKQoxlwGW3FZC?usp=sharing) và mount vào Colab theo cấu trúc thư mục đã cung cấp.
+> **Lưu ý**: Dự án được thiết kế để chạy trên **Google Colab**. Vui lòng tải dữ liệu từ [Google Drive](https://drive.google.com/drive/folders/1RJC81xq4osFdIOGtwy_pKQoxlwGW3FZC?usp=sharing) và mount vào Colab theo cấu trúc thư mục đã cung cấp.
 
 ### Bước 1: Parse LaTeX Files
 
@@ -608,6 +608,10 @@ RandomForestClassifier(
 ---
 
 **Liên hệ**: 23120334@student.hcmus.edu.vn 
+
+**GitHub Repository**: [GitHub](https://github.com/Hutaph/LAB02_Citation_Matching_and_Entity_Resolution)
+
+**Youtube demo**: [Youtube](https://youtu.be/r38LzXWgLs0?si=JVT4rpyGkKMb34hO)
 
 ---
 
